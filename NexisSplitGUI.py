@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# LexisNexis split 2.0
+# NexisSplit 0.1
 # Author: Lukas Hufnagel-Hadar
 # Licensed under the GPLv3: https://www.gnu.org/licenses/gpl-3.0.en.html
 
